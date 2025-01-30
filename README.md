@@ -1,4 +1,4 @@
-# Consistent Region Embedding across Cities via Latent Space Alignment
+# Cross-City Latent Space Alignment for Consistency Region Embedding
 
 These are the source codes for the **CoRE** model and its corresponding data. 
 
